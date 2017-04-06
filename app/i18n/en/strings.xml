@@ -1,0 +1,14 @@
+<resources lng="es">
+	
+	<!-- C O N T R O L L E R S   N A M E S -->
+	
+	<!--::::::::::::: N E W S . J S :::::::::::::::-->
+	<string name="newstitleWindow">News feed</string>
+	<string name="somethingWrong">Something wrong happen, please try again</string>
+	<string name="tryAgain">Try Again</string>
+	<string name="noTitle">No Title</string>
+	<string name="noDate">No Date</string>
+
+	<!--::::::::::::: N E W S . J S :::::::::::::::-->
+	
+</resources>

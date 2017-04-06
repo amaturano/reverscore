@@ -1,0 +1,6 @@
+<Alloy>
+	<View class="container" onClick="openDetails">
+		<Label id="lbl_title"></Label>
+		<Label id="lbl_date"></Label>
+	</View>
+</Alloy>

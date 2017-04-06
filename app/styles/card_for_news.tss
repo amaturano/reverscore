@@ -1,0 +1,30 @@
+
+".container" : {
+  backgroundColor : "white", 
+  top : "5dp",
+  height : "150dp",
+  width : "100%"
+}
+
+"#lbl_title" : {
+	width : "90%",
+	font : {
+		fontSize : 18,
+		fontWeight : "bold"
+	},
+	color : "black", 
+	top : "10dp",
+	textAlign : "left", 
+	touchEnabled : false	
+}
+
+"#lbl_date" : {
+	width : "auto",
+	font : {
+		fontSize : 12
+	},
+	color : "#D24D57", 
+	bottom : "10dp",
+	right : "10dp",
+	touchEnabled : false	
+}

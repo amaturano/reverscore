@@ -1,0 +1,34 @@
+
+".container" : {
+  
+}
+
+"#mainScrll" : {
+	height : "100%",
+	layout : "vertical",
+	width : "100%",
+	scrollingEnabled : true
+}
+
+"#mainScrll[platform=android]" : {
+	height : "100%",
+	layout : "vertical",
+	width : "100%",
+	contentHeight : "auto",
+	contentWidth : "100%",
+	scrollingEnabled : true,
+}
+
+
+"#btn_tryAgain" : {
+	width : "40%",
+	height : "45dp",
+	font : {
+		fontSize : 16
+	},
+	color : "white",
+	backgroundColor : "#D24D57",
+	borderRadius : 5,
+	visible : false, 
+	title : L("tryAgain")
+}

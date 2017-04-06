@@ -1,0 +1,21 @@
+{
+	"global": {},
+	"env:development": {
+        "logsEnabled": true,
+        "domain": "http://rss2json.com/"
+    },
+    "env:test": {
+        "logsEnabled": true,
+        "domain": "http://rss2json.com/"
+    },
+    "env:production": {
+        "logsEnabled": false,
+        "domain": "http://rss2json.com/"
+    },
+	"os:android": {},
+	"os:blackberry": {},
+	"os:ios": {},
+	"os:mobileweb": {},
+	"os:windows": {},
+	"dependencies": {}
+}

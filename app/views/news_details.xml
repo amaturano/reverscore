@@ -1,0 +1,5 @@
+<Alloy>
+	<View class="container">
+		<WebView id="wv_details"></WebView>
+	</View>
+</Alloy>

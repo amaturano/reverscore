@@ -1,0 +1,13 @@
+<resources lng="es">
+	
+	<!-- C O N T R O L L E R S   N A M E S -->
+	
+	<!--::::::::::::: N E W S . J S :::::::::::::::-->
+	<string name="newstitleWindow">Noticias recientes</string>
+	<string name="somethingWrong">Algo ha salido mal, favor de intentar de nuevo</string>
+	<string name="tryAgain">Intentar</string>
+	<string name="noTitle">Sin titulo</string>
+	<string name="noDate">Sin fecha</string>
+	<!--::::::::::::: N E W S . J S :::::::::::::::-->
+	
+</resources>

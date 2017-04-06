@@ -1,0 +1,8 @@
+<Alloy>
+	<View class="container" id="news">
+		<ScrollView id="mainScrll">
+			
+		</ScrollView>
+		<Button id="btn_tryAgain" onClick="tryAgain"></Button>
+	</View>
+</Alloy>
